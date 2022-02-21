@@ -10,3 +10,4 @@ MY RESOLUTION
 - hadapi rintagan satu per satu
 - pagi sampai sore belajar
 - malam baru istirahat
+- mempelajari git hari ini
